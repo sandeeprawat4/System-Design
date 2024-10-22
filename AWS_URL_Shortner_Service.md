@@ -53,6 +53,7 @@ Instance type and no. of instances?
 Memory for lambda execution
 
 Basic Architecture - 
+
 ![untitled_903596_02](https://github.com/user-attachments/assets/7c6e2608-4cf4-417b-bb0b-a8e13f3916ca)
 
 URL Shortening Algorithm - 
