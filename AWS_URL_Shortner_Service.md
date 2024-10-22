@@ -57,5 +57,5 @@ Basic Architecture -
 ![untitled_903596_02](https://github.com/user-attachments/assets/7c6e2608-4cf4-417b-bb0b-a8e13f3916ca)
 
 URL Shortening Algorithm - 
-MD5 can be used but total length could be greater than 7.
+Hash function MD5 can be used but total length could be greater than 7.
 We can trim but collision may happen since 2 URLs initial 7 letters could be same and with trimming, uniqueness of the urls wont be available.
